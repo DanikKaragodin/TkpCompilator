@@ -1,0 +1,9 @@
+﻿  tkp.cpp
+C:\Users\Danik\Documents\2 kurs\4 sem\Ппоис\tkp\resource.h(31,1): warning C4005: IDOK: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11117): message : см. предыдущее определение "IDOK"
+C:\Users\Danik\Documents\2 kurs\4 sem\Ппоис\tkp\tkp.cpp(82,32): warning C4101: newFilePath: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 284 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  tkp.vcxproj -> C:\Users\Danik\Documents\2 kurs\4 sem\Ппоис\tkp\x64\Release\tkp.exe
